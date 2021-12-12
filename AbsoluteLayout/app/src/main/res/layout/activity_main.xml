@@ -5,20 +5,20 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".MainActivity">
-    <Button
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:textColor="#FFFFFF"
-        android:text="Arsalan"
-        android:layout_x="60px"
-        android:layout_y="600px"
-        />
 
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_x="138dp"
-        android:layout_y="227dp"
+        android:layout_x="14dp"
+        android:layout_y="317dp"
+        android:text="Arsalan"
+        android:textColor="#FFFFFF" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="141dp"
+        android:layout_y="311dp"
         android:text="Shah"
         android:textColor="#FFFFFF" />
 
